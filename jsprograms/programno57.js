@@ -6,3 +6,6 @@ if (result)
 
 else
     console.log("strings are not similar");
+
+
+console.log("I am in the new branch")
